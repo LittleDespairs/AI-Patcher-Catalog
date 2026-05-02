@@ -8,6 +8,13 @@
       "description": "Редкий автоматизированный магический длинный меч D&D 5e в тематике гидры, с иллюстрацией и журнальной заметкой-наградой.",
       "createdAt": "2026-05-01T22:05:00+03:00",
       "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/hydra-reward-hydrafang.aipack.json"
+    },
+    {
+      "id": "greater-werewyvern-cr16",
+      "title": "Монстр: Грозовая Высшая Виверна-Оборотень CR 16",
+      "description": "Создаёт или обновляет полностью автоматизированного монстра D&D 2024 с аватаром, токеном, предметами и ItemMacro-автоматизациями.",
+      "createdAt": "2026-05-03T01:25:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/greater-werewyvern-cr16.aipack.json"
     }
   ]
 }
