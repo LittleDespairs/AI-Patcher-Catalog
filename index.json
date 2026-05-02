@@ -1,0 +1,13 @@
+{
+  "schema": "ai-patcher.feed.v1",
+  "updatedAt": "2026-05-03T00:00:00+03:00",
+  "bundles": [
+    {
+      "id": "hydra-reward-hydrafang",
+      "title": "Награда: Возмездие Гидриного Клыка",
+      "description": "Редкий автоматизированный магический длинный меч D&D 5e в тематике гидры, с иллюстрацией и журнальной заметкой-наградой.",
+      "createdAt": "2026-05-01T22:05:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/hydra-reward-hydrafang.aipack.json"
+    }
+  ]
+}
