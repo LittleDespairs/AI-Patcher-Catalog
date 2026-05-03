@@ -1,6 +1,6 @@
 {
   "schema": "ai-patcher.feed.v1",
-  "updatedAt": "2026-05-03T12:05:00+03:00",
+  "updatedAt": "2026-05-03T12:30:00+03:00",
   "bundles": [
     {
       "id": "hydra-reward-hydrafang",
@@ -19,14 +19,14 @@
     {
       "id": "bruxa-elite-vampire-cr10",
       "title": "Монстр: Брукса CR 10",
-      "description": "Создаёт элитную вампиршу-ассасина CR 10 с аватаром, токеном и автоматизированными способностями: мерцанием, визгом, укусом с лечением и легендарными действиями.",
+      "description": "Создаёт элитную вампиршу-ассасина CR 10 с аватаром, токеном и автоматизированными способностями: исправленным визгом-эманацией, мультиатакой, укусом с лечением и легендарными действиями с явной стоимостью.",
       "createdAt": "2026-05-03T11:30:00+03:00",
       "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/bruxa-elite-vampire-cr10.aipack.json"
     },
     {
       "id": "bruxa-elite-vampire-cr10-shadow-test",
       "title": "Монстр: Брукса CR 10 - тест Удара из тени",
-      "description": "Создаёт отдельную тестовую копию Бруксы с исправленным DamageBonus-макросом Удара из тени и дублированным ItemMacro-форматом.",
+      "description": "Создаёт отдельную тестовую копию Бруксы с исправленными визгом-эманацией, мультиатакой, легендарной стоимостью и DamageBonus-макросом Удара из тени.",
       "createdAt": "2026-05-03T12:05:00+03:00",
       "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/bruxa-elite-vampire-cr10-shadow-test.aipack.json"
     }
