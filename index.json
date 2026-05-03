@@ -1,6 +1,6 @@
 {
   "schema": "ai-patcher.feed.v1",
-  "updatedAt": "2026-05-03T13:05:00+03:00",
+  "updatedAt": "2026-05-03T14:35:00+03:00",
   "bundles": [
     {
       "id": "hydra-reward-hydrafang",
@@ -43,6 +43,13 @@
       "description": "Исправленная версия Магистра Доминирования CR 16: валидные 16-символьные embedded item ID для Foundry/dnd5e, портрет, face-token, Метки Подчинения, Одержимость и ItemMacro-автоматизация.",
       "createdAt": "2026-05-03T13:10:00+03:00",
       "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/magister-dominion-cr16-fixed.aipack.json"
+    },
+    {
+      "id": "phase-spider-cr-plus-one",
+      "title": "Усиление: Фазовый паук +1 CR",
+      "description": "Находит существующего Фазового паука или Phase Spider в текущем мире, повышает CR на 1 и добавляет автоматизированные способности без изменения портрета и токена.",
+      "createdAt": "2026-05-03T14:35:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/phase-spider-cr-plus-one.aipack.json"
     }
   ]
 }
