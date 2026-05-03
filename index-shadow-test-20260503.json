@@ -1,0 +1,34 @@
+{
+  "schema": "ai-patcher.feed.v1",
+  "updatedAt": "2026-05-03T12:15:00+03:00",
+  "bundles": [
+    {
+      "id": "hydra-reward-hydrafang",
+      "title": "Награда: Возмездие Гидриного Клыка",
+      "description": "Редкий автоматизированный магический длинный меч D&D 5e в тематике гидры, с иллюстрацией и журнальной заметкой-наградой.",
+      "createdAt": "2026-05-01T22:05:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/hydra-reward-hydrafang.aipack.json"
+    },
+    {
+      "id": "greater-werewyvern-cr16",
+      "title": "Монстр: Грозовая Высшая Виверна-Оборотень CR 16",
+      "description": "Создаёт или обновляет полностью автоматизированного монстра D&D 2024 с аватаром, токеном, предметами, ItemMacro-автоматизациями, грозовым токсином и электрическим ядом по отмеченным целям.",
+      "createdAt": "2026-05-03T01:25:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/greater-werewyvern-cr16.aipack.json"
+    },
+    {
+      "id": "bruxa-elite-vampire-cr10",
+      "title": "Монстр: Брукса CR 10",
+      "description": "Создаёт элитную вампиршу-ассасина CR 10 с аватаром, токеном и автоматизированными способностями: мерцанием, визгом, укусом с лечением и легендарными действиями.",
+      "createdAt": "2026-05-03T11:30:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/a7e6b1d3adb958a62e51428f85e28748d431e60b/bruxa-elite-vampire-cr10.aipack.json"
+    },
+    {
+      "id": "bruxa-elite-vampire-cr10-shadow-test",
+      "title": "Монстр: Брукса CR 10 - тест Удара из тени",
+      "description": "Создаёт отдельную тестовую копию Бруксы с исправленным DamageBonus-макросом Удара из тени и дублированным ItemMacro-форматом.",
+      "createdAt": "2026-05-03T12:05:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/a7e6b1d3adb958a62e51428f85e28748d431e60b/bruxa-elite-vampire-cr10-shadow-test.aipack.json"
+    }
+  ]
+}
