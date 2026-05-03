@@ -1,6 +1,6 @@
 {
   "schema": "ai-patcher.feed.v1",
-  "updatedAt": "2026-05-03T12:45:00+03:00",
+  "updatedAt": "2026-05-03T13:05:00+03:00",
   "bundles": [
     {
       "id": "hydra-reward-hydrafang",
@@ -33,7 +33,7 @@
     {
       "id": "magister-dominion-cr16",
       "title": "Монстр: Магистр Доминирования CR 16",
-      "description": "Создаёт легендарного вампира-доминатора D&D 2024 с портретом, face-token, Метками Подчинения, Одержимостью и автоматизированными ItemMacro-способностями.",
+      "description": "Создаёт легендарного вампира-доминатора D&D 2024 с портретом, face-token, Метками Подчинения, Одержимостью и автоматизированными ItemMacro-способностями. Исправлены 16-символьные ID embedded items для Foundry/dnd5e.",
       "createdAt": "2026-05-03T12:35:00+03:00",
       "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/magister-dominion-cr16.aipack.json"
     }
