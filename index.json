@@ -1,6 +1,6 @@
 {
   "schema": "ai-patcher.feed.v1",
-  "updatedAt": "2026-05-03T15:05:00+03:00",
+  "updatedAt": "2026-05-03T15:45:00+03:00",
   "bundles": [
     {
       "id": "hydra-reward-hydrafang",
@@ -57,6 +57,20 @@
       "description": "Исправленная версия усиления Фазового паука: Разрыв фазовой метки сам находит все отмеченные цели, наносит урон и снимает метки без ручного выбора целей. Портрет и токен не меняет.",
       "createdAt": "2026-05-03T15:05:00+03:00",
       "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/phase-spider-cr-plus-one-fixed.aipack.json"
+    },
+    {
+      "id": "magister-dominion-token-sunlight-fix",
+      "title": "Фикс: Магистр Доминирования - круглый токен и солнце",
+      "description": "Обновляет существующего Магистра Доминирования: ставит круглый прозрачный токен и добавляет автоматизированную чувствительность к солнечному свету. Самого актора не пересоздаёт.",
+      "createdAt": "2026-05-03T15:45:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/magister-dominion-token-sunlight-fix.aipack.json"
+    },
+    {
+      "id": "cassius-presence-vampire-cr18",
+      "title": "Монстр: Кассиус, вампир Присутствия CR 18",
+      "description": "Создаёт вампира-эстета CR 18 по портрету Кассиуса с круглым токеном, солнечной чувствительностью и пятью автоматизированными аналогами дисциплины Присутствие.",
+      "createdAt": "2026-05-03T15:45:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/cassius-presence-vampire-cr18.aipack.json"
     }
   ]
 }
