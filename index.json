@@ -1,6 +1,6 @@
 {
   "schema": "ai-patcher.feed.v1",
-  "updatedAt": "2026-05-03T00:00:00+03:00",
+  "updatedAt": "2026-05-03T11:30:00+03:00",
   "bundles": [
     {
       "id": "hydra-reward-hydrafang",
@@ -15,6 +15,13 @@
       "description": "Создаёт или обновляет полностью автоматизированного монстра D&D 2024 с аватаром, токеном, предметами, ItemMacro-автоматизациями, грозовым токсином и электрическим ядом по отмеченным целям.",
       "createdAt": "2026-05-03T01:25:00+03:00",
       "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/greater-werewyvern-cr16.aipack.json"
+    },
+    {
+      "id": "bruxa-elite-vampire-cr10",
+      "title": "Монстр: Брукса CR 10",
+      "description": "Создаёт элитную вампиршу-ассасина CR 10 с аватаром, токеном и автоматизированными способностями: мерцанием, визгом, укусом с лечением и легендарными действиями.",
+      "createdAt": "2026-05-03T11:30:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/bruxa-elite-vampire-cr10.aipack.json"
     }
   ]
 }
