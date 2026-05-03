@@ -1,0 +1,34 @@
+{
+  "schema": "ai-patcher.feed.v1",
+  "updatedAt": "2026-05-03T12:35:00+03:00",
+  "bundles": [
+    {
+      "id": "hydra-reward-hydrafang",
+      "title": "Награда: Возмездие Гидриного Клыка",
+      "description": "Редкий автоматизированный магический длинный меч D&D 5e в тематике гидры, с иллюстрацией и журнальной заметкой-наградой.",
+      "createdAt": "2026-05-01T22:05:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/hydra-reward-hydrafang.aipack.json"
+    },
+    {
+      "id": "greater-werewyvern-cr16",
+      "title": "Монстр: Грозовая Высшая Виверна-Оборотень CR 16",
+      "description": "Создаёт или обновляет полностью автоматизированного монстра D&D 2024 с аватаром, токеном, предметами, ItemMacro-автоматизациями, грозовым токсином и электрическим ядом по отмеченным целям.",
+      "createdAt": "2026-05-03T01:25:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/greater-werewyvern-cr16.aipack.json"
+    },
+    {
+      "id": "bruxa-elite-vampire-cr10",
+      "title": "Монстр: Брукса CR 10",
+      "description": "Создаёт элитную вампиршу-ассасина CR 10 с аватаром, токеном и автоматизированными способностями: исправленным визгом-эманацией, мультиатакой, укусом с лечением и легендарными действиями с явной стоимостью.",
+      "createdAt": "2026-05-03T11:30:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/56778f7dacb3484cb996309ba0671494c8bfb8db/bruxa-elite-vampire-cr10.aipack.json"
+    },
+    {
+      "id": "bruxa-elite-vampire-cr10-shadow-test",
+      "title": "Монстр: Брукса CR 10 - тест Удара из тени",
+      "description": "Создаёт отдельную тестовую копию Бруксы с исправленными визгом-эманацией, мультиатакой, легендарной стоимостью и DamageBonus-макросом Удара из тени.",
+      "createdAt": "2026-05-03T12:05:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/56778f7dacb3484cb996309ba0671494c8bfb8db/bruxa-elite-vampire-cr10-shadow-test.aipack.json"
+    }
+  ]
+}
