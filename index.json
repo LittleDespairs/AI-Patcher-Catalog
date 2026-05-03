@@ -36,6 +36,13 @@
       "description": "Создаёт легендарного вампира-доминатора D&D 2024 с портретом, face-token, Метками Подчинения, Одержимостью и автоматизированными ItemMacro-способностями. Исправлены 16-символьные ID embedded items для Foundry/dnd5e.",
       "createdAt": "2026-05-03T12:35:00+03:00",
       "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/magister-dominion-cr16.aipack.json"
+    },
+    {
+      "id": "magister-dominion-cr16-fixed",
+      "title": "Монстр: Магистр Доминирования CR 16 (исправленный)",
+      "description": "Исправленная версия Магистра Доминирования CR 16: валидные 16-символьные embedded item ID для Foundry/dnd5e, портрет, face-token, Метки Подчинения, Одержимость и ItemMacro-автоматизация.",
+      "createdAt": "2026-05-03T13:10:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/magister-dominion-cr16-fixed.aipack.json"
     }
   ]
 }
