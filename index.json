@@ -1,6 +1,6 @@
 {
   "schema": "ai-patcher.feed.v1",
-  "updatedAt": "2026-05-03T15:45:00+03:00",
+  "updatedAt": "2026-05-04T19:13:02.089Z",
   "bundles": [
     {
       "id": "hydra-reward-hydrafang",
@@ -71,6 +71,13 @@
       "description": "Создаёт вампира-эстета CR 18 по портрету Кассиуса с круглым токеном, солнечной чувствительностью и пятью автоматизированными аналогами дисциплины Присутствие.",
       "createdAt": "2026-05-03T15:45:00+03:00",
       "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/cassius-presence-vampire-cr18.aipack.json"
+    },
+    {
+      "id": "ag-shur-beholder-god-cr19",
+      "title": "Монстр: Аг-Шур, Бог Глаз CR 19",
+      "description": "Создаёт босса-бехолдера Аг-Шура CR 19 и пять уязвимых глаз-отростков с портретами, токенами и автоматизированными лучами.",
+      "createdAt": "2026-05-04T19:13:02.089Z",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/ag-shur-beholder-god-cr19.aipack.json"
     }
   ]
 }
