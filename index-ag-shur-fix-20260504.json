@@ -1,6 +1,6 @@
 {
   "schema": "ai-patcher.feed.v1",
-  "updatedAt": "2026-05-04T20:15:12.626Z",
+  "updatedAt": "2026-05-04T20:17:20.842Z",
   "bundles": [
     {
       "id": "hydra-reward-hydrafang",
@@ -77,7 +77,7 @@
       "title": "Монстр: Аг-Шур, Бог Глаз CR 19",
       "description": "Создаёт босса-бехолдера Аг-Шура CR 19 и пять уязвимых глаз-отростков с портретами, токенами и автоматизированными лучами.",
       "createdAt": "2026-05-04T20:13:33.459Z",
-      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/7bd2594495bf6100cc54ea0f760816b5bc5eedbf/ag-shur-beholder-god-cr19.aipack.json"
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/c75429d121dd1328fb4e7d3871f2d13c73e37e7f/ag-shur-beholder-god-cr19.aipack.json"
     }
   ]
 }
