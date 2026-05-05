@@ -1,0 +1,83 @@
+{
+  "schema": "ai-patcher.feed.v1",
+  "updatedAt": "2026-05-05T15:34:35.880Z",
+  "bundles": [
+    {
+      "id": "hydra-reward-hydrafang",
+      "title": "Награда: Возмездие Гидриного Клыка",
+      "description": "Редкий автоматизированный магический длинный меч D&D 5e в тематике гидры, с иллюстрацией и журнальной заметкой-наградой.",
+      "createdAt": "2026-05-01T22:05:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/hydra-reward-hydrafang.aipack.json"
+    },
+    {
+      "id": "greater-werewyvern-cr16",
+      "title": "Монстр: Грозовая Высшая Виверна-Оборотень CR 16",
+      "description": "Создаёт или обновляет полностью автоматизированного монстра D&D 2024 с аватаром, токеном, предметами, ItemMacro-автоматизациями, грозовым токсином и электрическим ядом по отмеченным целям.",
+      "createdAt": "2026-05-03T01:25:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/greater-werewyvern-cr16.aipack.json"
+    },
+    {
+      "id": "bruxa-elite-vampire-cr10",
+      "title": "Монстр: Брукса CR 10",
+      "description": "Создаёт элитную вампиршу-ассасина CR 10 с аватаром, токеном и автоматизированными способностями: исправленным визгом-эманацией, мультиатакой, укусом с лечением и легендарными действиями с явной стоимостью.",
+      "createdAt": "2026-05-03T11:30:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/bruxa-elite-vampire-cr10.aipack.json"
+    },
+    {
+      "id": "bruxa-elite-vampire-cr10-shadow-test",
+      "title": "Монстр: Брукса CR 10 - тест Удара из тени",
+      "description": "Создаёт отдельную тестовую копию Бруксы с исправленными визгом-эманацией, мультиатакой, легендарной стоимостью и DamageBonus-макросом Удара из тени.",
+      "createdAt": "2026-05-03T12:05:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/bruxa-elite-vampire-cr10-shadow-test.aipack.json"
+    },
+    {
+      "id": "magister-dominion-cr16",
+      "title": "Монстр: Магистр Доминирования CR 16",
+      "description": "Создаёт легендарного вампира-доминатора D&D 2024 с портретом, face-token, Метками Подчинения, Одержимостью и автоматизированными ItemMacro-способностями. Исправлены 16-символьные ID embedded items для Foundry/dnd5e.",
+      "createdAt": "2026-05-03T12:35:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/magister-dominion-cr16.aipack.json"
+    },
+    {
+      "id": "magister-dominion-cr16-fixed",
+      "title": "Монстр: Магистр Доминирования CR 16 (исправленный)",
+      "description": "Исправленная версия Магистра Доминирования CR 16: валидные 16-символьные embedded item ID для Foundry/dnd5e, портрет, face-token, Метки Подчинения, Одержимость и ItemMacro-автоматизация.",
+      "createdAt": "2026-05-03T13:10:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/magister-dominion-cr16-fixed.aipack.json"
+    },
+    {
+      "id": "phase-spider-cr-plus-one",
+      "title": "Усиление: Фазовый паук +1 CR",
+      "description": "Находит существующего Фазового паука или Phase Spider в текущем мире, повышает CR на 1 и добавляет автоматизированные способности без изменения портрета и токена.",
+      "createdAt": "2026-05-03T14:35:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/phase-spider-cr-plus-one.aipack.json"
+    },
+    {
+      "id": "phase-spider-cr-plus-one-fixed",
+      "title": "Усиление: Фазовый паук +1 CR (исправленный Разрыв)",
+      "description": "Исправленная версия усиления Фазового паука: Разрыв фазовой метки сам находит все отмеченные цели, наносит урон и снимает метки без ручного выбора целей. Портрет и токен не меняет.",
+      "createdAt": "2026-05-03T15:05:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/phase-spider-cr-plus-one-fixed.aipack.json"
+    },
+    {
+      "id": "magister-dominion-token-sunlight-fix",
+      "title": "Фикс: Магистр Доминирования - круглый токен и солнце",
+      "description": "Обновляет существующего Магистра Доминирования: ставит круглый прозрачный токен и добавляет автоматизированную чувствительность к солнечному свету. Самого актора не пересоздаёт.",
+      "createdAt": "2026-05-03T15:45:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/magister-dominion-token-sunlight-fix.aipack.json"
+    },
+    {
+      "id": "cassius-presence-vampire-cr18",
+      "title": "Монстр: Кассиус, вампир Присутствия CR 18",
+      "description": "Создаёт вампира-эстета CR 18 по портрету Кассиуса с круглым токеном, солнечной чувствительностью и пятью автоматизированными аналогами дисциплины Присутствие.",
+      "createdAt": "2026-05-03T15:45:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/cassius-presence-vampire-cr18.aipack.json"
+    },
+    {
+      "id": "ag-shur-beholder-god-cr19",
+      "title": "Монстр: Аг-Шур, Бог Глаз CR 19",
+      "description": "Создаёт босса-бехолдера Аг-Шура CR 19 и десять уязвимых глаз-отростков с портретами, токенами и автоматизированными лучами.",
+      "createdAt": "2026-05-05T15:33:26.747Z",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/38c4ac53ad4f369d3f2210d4a81ec829219fd9ad/ag-shur-beholder-god-cr19.aipack.json"
+    }
+  ]
+}
