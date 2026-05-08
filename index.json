@@ -1,7 +1,15 @@
 {
   "schema": "ai-patcher.feed.v1",
-  "updatedAt": "2026-05-08T12:09:36Z",
+  "updatedAt": "2026-05-08T13:45:35Z",
   "bundles": [
+    {
+      "id": "bak-high-wyvern-form-curse-token-update",
+      "title": "Обновление: Бак (Форма Высшей Виверны) - токен, яд и проклятие",
+      "description": "Обновляет существующего Бака в форме Высшей Виверны: ставит новый прозрачный объёмный токен с отдельным именем файла, сохраняет embedded ItemMacro-автоматизации, исправляет Электрический яд и добавляет к Жалу автоматическое проклятие с проверкой Телосложения Сл 18 в начале хода цели.",
+      "createdAt": "2026-05-08T13:45:35.626Z",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/bak-high-wyvern-form-curse-token-update.aipack.json?v=20260508-bak-v2",
+      "updated": "2026-05-08T13:45:35Z"
+    },
     {
       "id": "sewer-remorhaz-cr14-and-young-fixed",
       "title": "Монстры: Канализационный ремораз CR 14 и молодой ремораз (исправленный импорт)",
