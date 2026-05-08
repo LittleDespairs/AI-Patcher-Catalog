@@ -1,7 +1,15 @@
 {
   "schema": "ai-patcher.feed.v1",
-  "updatedAt": "2026-05-08T01:24:01.528Z",
+  "updatedAt": "2026-05-08T10:25:12.030Z",
   "bundles": [
+    {
+      "id": "sewer-remorhaz-cr14-and-young",
+      "title": "Монстры: Канализационный ремораз CR 14 и молодой ремораз",
+      "description": "Создаёт или обновляет взрослого канализационного ремораза CR 14 и молодого канализационного ремораза с портретами, токенами, аурой, проглатыванием, легендарными действиями и Раскалённым телом.",
+      "createdAt": "2026-05-08T01:40:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/sewer-remorhaz-cr14-and-young.aipack.json",
+      "updated": "2026-05-08T10:25:12.030Z"
+    },
     {
       "id": "hydra-reward-hydrafang",
       "title": "Награда: Возмездие Гидриного Клыка",
@@ -92,14 +100,6 @@
       "description": "Исправляет уже импортированного Аг-Шура на Sqyre: создаёт безопасные no-space макросы и переписывает ссылки в актёрах, предметах и эффектах.",
       "createdAt": "2026-05-08T01:28:00+03:00",
       "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/ag-shur-cr19-macro-fix.aipack.json"
-    },
-    {
-      "id": "sewer-remorhaz-cr14-and-young",
-      "title": "Монстры: Канализационный ремораз CR 14 и молодой ремораз",
-      "description": "Создаёт или обновляет взрослого канализационного ремораза CR 14 и молодого канализационного ремораза с портретами, токенами, аурой, проглатыванием, легендарными действиями и Раскалённым телом.",
-      "createdAt": "2026-05-08T01:40:00+03:00",
-      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/sewer-remorhaz-cr14-and-young.aipack.json",
-      "updated": "2026-05-08T10:20:11.541Z"
     }
   ]
 }
