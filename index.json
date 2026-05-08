@@ -98,7 +98,8 @@
       "title": "Монстры: Канализационный ремораз CR 14 и молодой ремораз",
       "description": "Создаёт или обновляет взрослого канализационного ремораза CR 14 и молодого канализационного ремораза с портретами, токенами, аурой, проглатыванием, легендарными действиями и Раскалённым телом.",
       "createdAt": "2026-05-08T01:40:00+03:00",
-      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/sewer-remorhaz-cr14-and-young.aipack.json"
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/sewer-remorhaz-cr14-and-young.aipack.json",
+      "updated": "2026-05-08T10:20:11.541Z"
     }
   ]
 }
