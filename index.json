@@ -1,14 +1,14 @@
 {
   "schema": "ai-patcher.feed.v1",
-  "updatedAt": "2026-05-08T10:46:33.954Z",
+  "updatedAt": "2026-05-08T12:09:36Z",
   "bundles": [
     {
       "id": "sewer-remorhaz-cr14-and-young-fixed",
       "title": "Монстры: Канализационный ремораз CR 14 и молодой ремораз (исправленный импорт)",
-      "description": "Исправленная версия полного пакета канализационных реморазов: новый id обходит кэш старого импорта Sqyre, embedded item id валидны для Foundry 13/dnd5e 5.3.2.",
+      "description": "Исправленная версия полного пакета канализационных реморазов: валидные embedded item id для Foundry 13/dnd5e 5.3.2, новые прозрачные объёмные токены для Foundry token ring.",
       "createdAt": "2026-05-08T10:45:28.115Z",
-      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/sewer-remorhaz-cr14-and-young-fixed.aipack.json",
-      "updated": "2026-05-08T10:45:28.115Z"
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/sewer-remorhaz-cr14-and-young-fixed.aipack.json?v=05016cc",
+      "updated": "2026-05-08T12:09:36Z"
     },
     {
       "id": "hydra-reward-hydrafang",
