@@ -1,6 +1,6 @@
 {
   "schema": "ai-patcher.feed.v1",
-  "updatedAt": "2026-05-08T01:10:29.149Z",
+  "updatedAt": "2026-05-08T01:24:01.528Z",
   "bundles": [
     {
       "id": "hydra-reward-hydrafang",
@@ -75,7 +75,7 @@
     {
       "id": "ag-shur-beholder-god-cr19",
       "title": "Монстр: Аг-Шур, Бог Глаз CR 19",
-      "description": "Создаёт босса-бехолдера Аг-Шура CR 19 и десять уязвимых глаз-отростков с портретами, токенами и автоматизированными лучами.",
+      "description": "Создаёт босса-бехолдера Аг-Шура CR 19 и десять уязвимых глаз-отростков с портретами, токенами, автоматизированными лучами и исправленными переносимыми макросами без пробелов в именах.",
       "createdAt": "2026-05-05T17:27:24.673Z",
       "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/ag-shur-beholder-god-cr19.aipack.json"
     },
@@ -85,6 +85,20 @@
       "description": "Добавляет взрослому и молодому канализационному реморазу автоматическую пассивку: атакующий в ближнем бою получает 3d6 или 2d6 урона огнём.",
       "createdAt": "2026-05-08T01:08:00+03:00",
       "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/sewer-remorhaz-heat-body.aipack.json"
+    },
+    {
+      "id": "ag-shur-cr19-macro-fix",
+      "title": "Фикс: Аг-Шур CR 19 - макросы без пробелов",
+      "description": "Исправляет уже импортированного Аг-Шура на Sqyre: создаёт безопасные no-space макросы и переписывает ссылки в актёрах, предметах и эффектах.",
+      "createdAt": "2026-05-08T01:28:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/ag-shur-cr19-macro-fix.aipack.json"
+    },
+    {
+      "id": "sewer-remorhaz-cr14-and-young",
+      "title": "Монстры: Канализационный ремораз CR 14 и молодой ремораз",
+      "description": "Создаёт или обновляет взрослого канализационного ремораза CR 14 и молодого канализационного ремораза с портретами, токенами, аурой, проглатыванием, легендарными действиями и Раскалённым телом.",
+      "createdAt": "2026-05-08T01:40:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/sewer-remorhaz-cr14-and-young.aipack.json"
     }
   ]
 }
