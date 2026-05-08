@@ -1,6 +1,6 @@
 {
   "schema": "ai-patcher.feed.v1",
-  "updatedAt": "2026-05-05T17:27:24.672Z",
+  "updatedAt": "2026-05-08T01:10:29.149Z",
   "bundles": [
     {
       "id": "hydra-reward-hydrafang",
@@ -78,6 +78,13 @@
       "description": "Создаёт босса-бехолдера Аг-Шура CR 19 и десять уязвимых глаз-отростков с портретами, токенами и автоматизированными лучами.",
       "createdAt": "2026-05-05T17:27:24.673Z",
       "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/ag-shur-beholder-god-cr19.aipack.json"
+    },
+    {
+      "id": "sewer-remorhaz-heat-body",
+      "title": "Монстр: Раскалённое тело канализационных реморазов",
+      "description": "Добавляет взрослому и молодому канализационному реморазу автоматическую пассивку: атакующий в ближнем бою получает 3d6 или 2d6 урона огнём.",
+      "createdAt": "2026-05-08T01:08:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/sewer-remorhaz-heat-body.aipack.json"
     }
   ]
 }
