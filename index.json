@@ -1,7 +1,15 @@
 {
   "schema": "ai-patcher.feed.v1",
-  "updatedAt": "2026-05-08T13:45:35Z",
+  "updatedAt": "2026-05-09T13:50:58.483Z",
   "bundles": [
+    {
+      "id": "ag-shur-antimagic-ray-target-filter-fix",
+      "title": "Фикс: Аг-Шур - лучи игнорируют антимагический конус",
+      "description": "Точечно обновляет уже импортированного Аг-Шура: обычные и легендарные лучи из глаз больше не выбирают целью существ под эффектом или внутри шаблона антимагического конуса.",
+      "createdAt": "2026-05-09T13:50:58.483Z",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/ag-shur-antimagic-ray-target-filter-fix.aipack.json?v=20260509-agshur-antimagic-rays-v1",
+      "updated": "2026-05-09T13:50:58.483Z"
+    },
     {
       "id": "bak-high-wyvern-form-curse-token-update",
       "title": "Обновление: Бак (Форма Высшей Виверны) - токен, яд и проклятие",
