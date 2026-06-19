@@ -1,7 +1,15 @@
 {
   "schema": "ai-patcher.feed.v1",
-  "updatedAt": "2026-05-09T13:50:58.483Z",
+  "updatedAt": "2026-06-19T00:00:00+03:00",
   "bundles": [
+    {
+      "id": "crown-ten-thousandfold-gaze",
+      "title": "Предмет: Корона Десятитысячного Взора",
+      "description": "Создаёт легендарный чудесный предмет D&D 5e: живую корону бога-бехолдера с 10 автоматизированными глазами, выбором 3 активных глаз, паранойей, скрытым эффектом фантомных глаз, проклятием и иллюстрацией.",
+      "createdAt": "2026-06-19T00:00:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/crown-ten-thousandfold-gaze.aipack.json?v=20260619-crown-v1",
+      "updated": "2026-06-19T00:00:00+03:00"
+    },
     {
       "id": "ag-shur-antimagic-ray-target-filter-fix",
       "title": "Фикс: Аг-Шур - лучи игнорируют антимагический конус",
