@@ -4,10 +4,10 @@
   "bundles": [
     {
       "id": "crown-ten-thousandfold-gaze",
-      "title": "Предмет: Корона Десятитысячного Взора",
-      "description": "Создаёт легендарный автоматизированный магический предмет D&D 5e: живую корону бога-бехолдера с отдельной настройкой активных глаз, 10 лучами, паранойей, фантомными глазами, проклятием и иллюстрацией.",
+      "title": "Предмет: Корона Десятитысячного Взора v1.1",
+      "description": "Создаёт легендарный автоматизированный магический предмет D&D 5e: Корону Десятитысячного Взора v1.1, живую корону бога-бехолдера с отдельной настройкой активных глаз, 10 лучами, паранойей, фантомными глазами, проклятием и иллюстрацией.",
       "createdAt": "2026-06-19T00:00:00+03:00",
-      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/crown-ten-thousandfold-gaze.aipack.json?v=20260619-crown-v2-activities",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/crown-ten-thousandfold-gaze.aipack.json?v=20260619-crown-v11",
       "updated": "2026-06-19T00:00:00+03:00"
     },
     {
