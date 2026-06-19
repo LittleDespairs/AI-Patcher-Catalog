@@ -3,11 +3,11 @@
   "updatedAt": "2026-06-19T00:00:00+03:00",
   "bundles": [
     {
-      "id": "crown-ten-thousandfold-gaze-v11-fixed",
-      "title": "Предмет: Корона Десятитысячного Взора v1.1",
-      "description": "Создаёт Корону Десятитысячного Взора v1.1: исправленный легендарный автоматизированный предмет D&D 5e с валидными activity-id, настройкой 3 активных глаз, 10 лучами, паранойей, фантомными глазами, проклятием и иллюстрацией.",
+      "id": "crown-ten-thousandfold-gaze-v12",
+      "title": "Предмет: Корона Десятитысячного Взора v1.2",
+      "description": "Создаёт Корону Десятитысячного Взора v1.2: легендарный автоматизированный предмет D&D 5e с валидными activity-id, настройкой 3 активных глаз, 10 лучами, паранойей, фантомными глазами, проклятием и иллюстрацией.",
       "createdAt": "2026-06-19T00:00:00+03:00",
-      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/crown-ten-thousandfold-gaze-v11-fixed.aipack.json?v=20260619-crown-v11-fixed-activityids",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/crown-ten-thousandfold-gaze-v12.aipack.json?v=20260619-crown-v12",
       "updated": "2026-06-19T00:00:00+03:00"
     },
     {
