@@ -1,14 +1,22 @@
 {
   "schema": "ai-patcher.feed.v1",
-  "updatedAt": "2026-06-19T00:00:00+03:00",
+  "updatedAt": "2026-07-20T00:00:00+03:00",
   "bundles": [
     {
-      "id": "cassius-vampire-dragon-cr15-v1",
-      "title": "Босс: Ноктарис, дракон-вампир Кассиуса CR 15 v1.0",
-      "description": "Создаёт босса D&D 5e: Ноктариса, дракона-вампира CR 15 и ручного зверя Кассиуса, с предысторией, портретом, токеном с рамкой, легендарными сопротивлениями, легендарными действиями и ItemMacro/midi-qol автоматизацией.",
-      "createdAt": "2026-07-17T00:00:00+03:00",
-      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/cassius-vampire-dragon-cr15-v1.aipack.json?v=20260717-noktaris-v1",
-      "updated": "2026-07-17T00:00:00+03:00"
+      "id": "pudge-butcher-cr16-v1",
+      "title": "Босс: Пудж, Мясник Междумирья CR 16 v1.0",
+      "description": "Создаёт босса D&D 5e: Пуджа, Мясника Междумирья CR 16, с портретом, круглым токеном, Мясным крюком, Гниением, Щитом плоти, прерываемым Расчленением и легендарными действиями.",
+      "createdAt": "2026-07-20T00:00:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/pudge-butcher-cr16-v1.aipack.json?v=20260720-pudge-v1",
+      "updated": "2026-07-20T00:00:00+03:00"
+    },
+    {
+      "id": "cassius-vampire-dragon-cr18-v11",
+      "title": "Босс: Ноктарис, дракон-вампир Кассиуса CR 18 v1.1",
+      "description": "Обновляет или создаёт Ноктариса, дракона-вампира Кассиуса: CR 18, СЛ спасбросков 22, усиленные атаки, портрет, круглый токен, легендарные сопротивления, легендарные действия и понятные пояснения эффектов.",
+      "createdAt": "2026-07-20T00:00:00+03:00",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/cassius-vampire-dragon-cr18-v11.aipack.json?v=20260720-noktaris-cr18-v11",
+      "updated": "2026-07-20T00:00:00+03:00"
     },
     {
       "id": "crown-ten-thousandfold-gaze-v13",
@@ -29,7 +37,7 @@
     {
       "id": "bak-high-wyvern-form-curse-token-update",
       "title": "Обновление: Бак (Форма Высшей Виверны) - токен, яд и проклятие",
-      "description": "Обновляет существующего Бака в форме Высшей Виверны: ставит новый прозрачный объёмный токен с отдельным именем файла, сохраняет embedded ItemMacro-автоматизации, исправляет Электрический яд и добавляет к Жалу автоматическое проклятие с проверкой Телосложения Сл 18 в начале хода цели.",
+      "description": "Обновляет существующего Бака в форме Высшей Виверны: ставит новый прозрачный объёмный токен с отдельным именем файла, сохраняет встроенные автоматизации, исправляет Электрический яд и добавляет к Жалу автоматическое проклятие с проверкой Телосложения Сл 18 в начале хода цели.",
       "createdAt": "2026-05-08T13:45:35.626Z",
       "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/bak-high-wyvern-form-curse-token-update.aipack.json?v=20260508-bak-v2",
       "updated": "2026-05-08T13:45:35Z"
@@ -52,7 +60,7 @@
     {
       "id": "greater-werewyvern-cr16",
       "title": "Монстр: Грозовая Высшая Виверна-Оборотень CR 16",
-      "description": "Создаёт или обновляет полностью автоматизированного монстра D&D 2024 с аватаром, токеном, предметами, ItemMacro-автоматизациями, грозовым токсином и электрическим ядом по отмеченным целям.",
+      "description": "Создаёт или обновляет полностью автоматизированного монстра D&D 2024 с аватаром, токеном, предметами, встроенными автоматизациями, грозовым токсином и электрическим ядом по отмеченным целям.",
       "createdAt": "2026-05-03T01:25:00+03:00",
       "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/greater-werewyvern-cr16.aipack.json"
     },
@@ -66,21 +74,21 @@
     {
       "id": "bruxa-elite-vampire-cr10-shadow-test",
       "title": "Монстр: Брукса CR 10 - тест Удара из тени",
-      "description": "Создаёт отдельную тестовую копию Бруксы с исправленными визгом-эманацией, мультиатакой, легендарной стоимостью и DamageBonus-макросом Удара из тени.",
+      "description": "Создаёт отдельную тестовую копию Бруксы с исправленными визгом-эманацией, мультиатакой, легендарной стоимостью и автоматическим бонусом урона Удара из тени.",
       "createdAt": "2026-05-03T12:05:00+03:00",
       "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/bruxa-elite-vampire-cr10-shadow-test.aipack.json"
     },
     {
       "id": "magister-dominion-cr16",
       "title": "Монстр: Магистр Доминирования CR 16",
-      "description": "Создаёт легендарного вампира-доминатора D&D 2024 с портретом, face-token, Метками Подчинения, Одержимостью и автоматизированными ItemMacro-способностями. Исправлены 16-символьные ID embedded items для Foundry/dnd5e.",
+      "description": "Создаёт легендарного вампира-доминатора D&D 2024 с портретом, face-token, Метками Подчинения, Одержимостью и автоматизированными способностями. Исправлены 16-символьные ID embedded items для Foundry/dnd5e.",
       "createdAt": "2026-05-03T12:35:00+03:00",
       "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/magister-dominion-cr16.aipack.json"
     },
     {
       "id": "magister-dominion-cr16-fixed",
       "title": "Монстр: Магистр Доминирования CR 16 (исправленный)",
-      "description": "Исправленная версия Магистра Доминирования CR 16: валидные 16-символьные embedded item ID для Foundry/dnd5e, портрет, face-token, Метки Подчинения, Одержимость и ItemMacro-автоматизация.",
+      "description": "Исправленная версия Магистра Доминирования CR 16: валидные 16-символьные embedded item ID для Foundry/dnd5e, портрет, face-token, Метки Подчинения, Одержимость и встроенная автоматизация.",
       "createdAt": "2026-05-03T13:10:00+03:00",
       "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/magister-dominion-cr16-fixed.aipack.json"
     },
@@ -128,8 +136,8 @@
     },
     {
       "id": "ag-shur-cr19-macro-fix",
-      "title": "Фикс: Аг-Шур CR 19 - макросы без пробелов",
-      "description": "Исправляет уже импортированного Аг-Шура на Sqyre: создаёт безопасные no-space макросы и переписывает ссылки в актёрах, предметах и эффектах.",
+      "title": "Фикс: Аг-Шур CR 19 - безопасные имена автоматизации",
+      "description": "Исправляет уже импортированного Аг-Шура на Sqyre: создаёт безопасные имена обработчиков и переписывает ссылки в актёрах, предметах и эффектах.",
       "createdAt": "2026-05-08T01:28:00+03:00",
       "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/ag-shur-cr19-macro-fix.aipack.json"
     }
