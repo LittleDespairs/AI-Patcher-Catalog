@@ -11,12 +11,10 @@
       "updated": "2026-07-20T00:00:00+03:00"
     },
     {
-      "id": "cassius-vampire-dragon-cr18-v11",
-      "title": "Босс: Ноктарис, дракон-вампир Кассиуса CR 18 v1.1",
-      "description": "Обновляет или создаёт Ноктариса, дракона-вампира Кассиуса: CR 18, СЛ спасбросков 22, усиленные атаки, портрет, круглый токен, легендарные сопротивления, легендарные действия и понятные пояснения эффектов.",
-      "createdAt": "2026-07-20T00:00:00+03:00",
-      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/cassius-vampire-dragon-cr18-v11.aipack.json?v=20260720-noktaris-cr18-v11",
-      "updated": "2026-07-20T00:00:00+03:00"
+      "id": "cassius-vampire-dragon-cr18-v12",
+      "title": "Босс: Ноктарис, дракон-вампир Кассиуса CR 18 v1.2",
+      "description": "Обновляет или создаёт Ноктариса CR 18: СЛ спасбросков 22, круглый токен, легендарные действия, солнечная уязвимость и подробные пояснения всех боевых эффектов прямо в атаках и памятке.",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/cassius-vampire-dragon-cr18-v12.aipack.json?v=20260720-noktaris-cr18-v12-effects"
     },
     {
       "id": "crown-ten-thousandfold-gaze-v13",
