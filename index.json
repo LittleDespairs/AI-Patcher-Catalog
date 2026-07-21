@@ -3,10 +3,10 @@
   "updatedAt": "2026-07-21T00:00:00+03:00",
   "bundles": [
     {
-      "id": "eye-of-vengeance-v1",
-      "title": "Предмет: Око Возмездия v1.0",
-      "description": "Создаёт артефакт Око Возмездия v1.0: настройка избранного оружия, выбор заклинательной характеристики, Месть Самиэля с телепортом, максимальным критическим неотвратимым уроном, Стойкой мученика и ценой повторного применения.",
-      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/eye-of-vengeance-v1.aipack.json?v=20260721-eye-of-vengeance-v1"
+      "id": "eye-of-vengeance-v11",
+      "title": "Предмет: Око Возмездия v1.1",
+      "description": "Обновляет или создаёт артефакт Око Возмездия v1.1: новый арт в стиле алой печати возмездия, картинка внутри описания, настройка избранного оружия, Месть Самиэля, Стойка мученика и цена повторного применения.",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/eye-of-vengeance-v11.aipack.json?v=20260721-eye-of-vengeance-v11-art"
     },
     {
       "id": "pudge-butcher-cr16-v1",
