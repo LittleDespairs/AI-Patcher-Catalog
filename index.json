@@ -1,7 +1,13 @@
 {
   "schema": "ai-patcher.feed.v1",
-  "updatedAt": "2026-07-20T00:00:00+03:00",
+  "updatedAt": "2026-07-21T00:00:00+03:00",
   "bundles": [
+    {
+      "id": "eye-of-vengeance-v1",
+      "title": "Предмет: Око Возмездия v1.0",
+      "description": "Создаёт артефакт Око Возмездия v1.0: настройка избранного оружия, выбор заклинательной характеристики, Месть Самиэля с телепортом, максимальным критическим неотвратимым уроном, Стойкой мученика и ценой повторного применения.",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/eye-of-vengeance-v1.aipack.json?v=20260721-eye-of-vengeance-v1"
+    },
     {
       "id": "pudge-butcher-cr16-v1",
       "title": "Босс: Пудж, Мясник Междумирья CR 16 v1.0",
