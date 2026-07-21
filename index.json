@@ -3,10 +3,10 @@
   "updatedAt": "2026-07-21T00:00:00+03:00",
   "bundles": [
     {
-      "id": "eye-of-vengeance-v13",
-      "title": "Предмет: Око Возмездия v1.3",
-      "description": "Обновляет или создаёт артефакт Око Возмездия v1.3: убирает дубли способностей, больше не меняет кубы урона избранного оружия при настройке, применяет выбранную характеристику к атаке оружием и считает модификатор в Мести Самиэля без порчи оружия.",
-      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/eye-of-vengeance-v13.aipack.json?v=20260721-eye-of-vengeance-v13-cleanup"
+      "id": "eye-of-vengeance-v14",
+      "title": "Предмет: Око Возмездия v1.4",
+      "description": "Обновляет или создаёт артефакт Око Возмездия v1.4: убирает дубли способностей, не меняет кубы урона избранного оружия, исправляет следы предыдущей версии в уроне оружия и считает модификатор в Мести Самиэля без порчи оружия.",
+      "packageUrl": "https://raw.githubusercontent.com/LittleDespairs/AI-Patcher-Catalog/main/eye-of-vengeance-v14.aipack.json?v=20260721-eye-of-vengeance-v14-clean-repair"
     },
     {
       "id": "pudge-butcher-cr16-v1",
